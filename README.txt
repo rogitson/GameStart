@@ -1,0 +1,1 @@
+Use admin and admin as the username and password to access the admin page. From there you can add your own user as you please to test out the program.
